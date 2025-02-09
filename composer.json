@@ -1,0 +1,19 @@
+{
+    "name": "huynh-at/php-uploader",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tienv2i",
+            "email": "tienv2i@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.19"
+    }
+}
